@@ -1,5 +1,6 @@
-console.error("ola3wqewewqeq")
+hola = "ola"
+console.error(hola)
 
-function name(params) {
-    console.log("hola")
+function name() {
+    console.log("holwerwea")
 }
